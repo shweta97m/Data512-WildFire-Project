@@ -2,42 +2,38 @@
 
 This guide provides an overview of the project's folder structure and describes the purpose of each subfolder.
 
-## Data512 - ProjectPart1_CommonAnalysis_ShwetaManjunath
+## Data512-WildFire-Project
 - The main project folder. This contains all the articles, codes and artifacts related to the common analysis section of our project
 
-### Documentation
-- Project-related documents and notes. This contains the ReadMe file that describes the data collected in this project
+### 01_src
+- Source code repository.
+   - `01_src/`: Core source code files reside here.
 
-### Source Code
-- The code for the project.
-   - `src/`: Source code files.
+### 02_data
+- Data storage for the project.
+   - `02_data/01_source_data/`: Raw datasets utilized for analysis.Home to unaltered, original datasets directly acquired for analysis.
+   - `02_data/02_intermediate_data/`: Cleaned and processed data files.Stores data undergoing initial cleaning and transformation stages.
+   - `02_data/03_final_data/`: Repository for immaculate, refined datasets ready for analysis.
 
-### Data
-- Data files for the project.
-   - `datasets/`: Raw datasets for analysis.
-   - `processed_data/`: Cleaned and processed data.
+### 03_supporting_documentation
+- Repository for project-related documents and notes.
+   - `03_supporting_documentation/`: Holds project-related documentation and the crucial ReadMe file describing collected data.
 
-### Reports and Results
-- Project reports and results.
-   - `reports/`: Project reports. Contains the reflection for the visualizations
-   - `results/`: Output files and results.
+### 04_results_and_reports
+- Storage for project reports and outcomes.
+   - `01_reports/`: Project reports and visualizations' reflections.
+   - `02_results/`: Output files and result documents.
 
-### Assets
-- Multimedia and design assets.
-   - `images/`: Image files. This contains the visualization results
-
-### Dependencies
+### 05_dependencies
 - Third-party libraries and dependencies.
-   - `dependecies/`: Third-party libraries and packages. It contains the Reader package
+   - `05_dependencies/`: Repository for third-party libraries and packages. Contains the 'Reader' package.
 
-### Scripts or Utilities
+### 06_reference_scripts
 - Custom scripts and utilities.
-   - `scripts/`: Custom scripts for automation. This contains the example scripts used to demo the process.
-
-### Archives or Backups
-- Archived or backup copies of project files.
-
+   - `06_reference_scripts/`: Custom automation scripts for various project functionalities.
+   
+### 99_archive
+- Archival or backup copies of project files for safekeeping.
 
 ## Conclusion
 This guide is designed to help you navigate the project's folder structure and understand the purpose of each subfolder. Please keep this document updated as the project evolves.
-
