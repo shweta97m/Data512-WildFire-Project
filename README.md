@@ -34,9 +34,9 @@ Some code examples that were developed by Dr. David W. McDonald for use in DATA 
 Everyone has been assigned a unique U.S. city for their individual analyses. To access the assigned city, refer to the [Google Spreadsheet](link-to-spreadsheet).
 
 - #### EPA Air Quality History Example Script 1
-`[Data 512 - Part1_epa_air_quality_history_example.ipynb](link)`: Jupyter Notebook showcasing an example script related to EPA air quality history, aiding our analysis.
+`[Data 512 - Part1_epa_air_quality_history_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_epa_air_quality_history_example.ipynb)`: Jupyter Notebook showcasing an example script related to EPA air quality history, aiding our analysis.
 - ### Part1 - Wildfire Geo Proximity Example Script 1
-`[Data 512 - Part1_wildfire_geo_proximity_example.ipynb](link)`: Jupyter Notebook presenting an example script demonstrating wildfire geo proximity calculations for reference.
+`[Data 512 - Part1_wildfire_geo_proximity_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_wildfire_geo_proximity_example.ipynb)`: Jupyter Notebook presenting an example script demonstrating wildfire geo proximity calculations for reference.
 
 ## Data Sources
 
@@ -48,9 +48,9 @@ Everyone has been assigned a unique U.S. city for their individual analyses. To 
 `USDA Data` - Most of the information available from this site is within the public domain. Public domain information on the National Agricultural Statistics Service (NASS) Web pages may be freely downloaded and reproduced. However, it is requested that in any subsequent use of this work, USDA-NASS be given appropriate acknowledgment. Link: https://www.nass.usda.gov/datasets/
 
 ### Processed Data 2
-- `02_data/01_source_data/` - `[Link to README](#)`: Raw datasets utilized for analysis.
-- `02_data/02_intermediate_data/` - `[Link to README](#)`: Cleaned and processed data files.
-- `02_data/03_final_data/` - `[Link to README](#)`: Immaculate, refined datasets ready for analysis.
+- `02_data/01_source_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/01_source_data/README.md)`: Raw datasets utilized for analysis.
+- `02_data/02_intermediate_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/02_intermediate_data/README.md)`: Cleaned and processed data files.
+- `02_data/03_final_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/03_final_data/README.md)`: Immaculate, refined datasets ready for analysis.
 
 ### Attributtions
 
@@ -59,27 +59,27 @@ Everyone has been assigned a unique U.S. city for their individual analyses. To 
 - Rhea Sharma - for collaborating with the project approach and for providing technical assistance with the operational issues when I faced issues.
 - Nizan Howard - for collaborating with the project approach and for providing technical assistance with the operational issues when I faced issues.
 
-## Folder Stucture 3
+## Folder Stucture 
 
 Details of the folder structure is given in the [Project Folder Structure Guide](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/Project%20Folder%20Structure%20Guide.md)
 
 ### 01_src
-- Source code repository - `[Link to README](#)`: Core source code files reside here
+- Source code repository - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/01_src/README.md)`: Core source code files reside here
 
 ### 02_data
-- Data storage for the project - `[Link to README](#)`: Contains source, intermediate and final data
+- Data storage for the project - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/README.md)`: Contains source, intermediate and final data
 
 ### 03_supporting_documentation
-- Repository for project-related documents and notes - `[Link to README](#)`: Holds project-related documentation 
+- Repository for project-related documents and notes - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/03_supporting_documentation/README.md)`: Holds project-related documentation 
 
 ### 04_results_and_reports
-- Storage for project reports and outcomes - `[Link to README](#)`: Project reports and visualizations' reflections
+- Storage for project reports and outcomes - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/04_results_and_reports/README.md)`: Project reports and visualizations' reflections
 
 ### 05_dependencies
-- Third-party libraries and dependencies - `[Link to README](#)`: Repository for third-party libraries and packages. Contains the 'Reader' package.
+- Third-party libraries and dependencies - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/05_dependencies/README.md)`: Repository for third-party libraries and packages. Contains the 'Reader' package.
 
 ### 06_reference_scripts
-- Custom scripts and utilities - `[Link to README](#)`: Custom automation scripts for various project functionalities
+- Custom scripts and utilities - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/README.md)`: Custom automation scripts for various project functionalities
    
 ### 99_archive
 - Archival or backup copies of project files for safekeeping 
@@ -116,7 +116,7 @@ Details of the folder structure is given in the [Project Folder Structure Guide]
     - Discuss collaboration's impact on problem-solving.
     - Attribute reused code, methods, and techniques explicitly.
 
-### Part 2 - Extension Plan 4
+### Part 2 - Extension Plan 
 
   - Purpose:
     - Inform the city council, city manager/mayor, and city residents about potential future smoke impacts.
@@ -138,13 +138,13 @@ Details of the folder structure is given in the [Project Folder Structure Guide]
        - Importance to the community.
        - How it serves the community's needs.
     
-    2. Impact Focus:
+    2. Impact Focus:`Data512-WildFire-Project\01_src\06_Data512 - ProjectExtension_Part2_AgricultureData_Acquisition.ipynb`
        - Choose one of the provided focus areas or propose a specific focus.
     
-    3. Data or Model:
+    3. Data or Model:`Data512-WildFire-Project\01_src\07_Data512 - ProjectExtension_Part2_AgricultureData_DataAnalysis.ipynb`
        - Additional data description, licensing, or leveraging existing models.
     
-    4. Unknowns and Dependencies:
+    4. Unknowns and Dependencies: `Data512-WildFire-Project\01_src\08_Data512 - ProjectExtension_Part2_AgricultureData_Forecasting.ipynb`
        - Factors impacting the analysis beyond control.
     
     5. Timeline to Completion:

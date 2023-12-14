@@ -95,6 +95,66 @@ The datafiles listed below can be found in the /02_data/02_intermediate_data/  f
    - 'Shape_Length': Geometric length of the fire polygon.
    - 'Shape_Area': Geometric area of the fire polygon.
   
+### 'crop_data_NorthDakota_Burleigh.csv'
+
+- **Description**: Contains detailed information about harvested crop areas in Burleigh County, North Dakota.
+
+- **Columns**:
+  - 'SOURCE_DESC': Description of the data source.
+  - 'SECTOR_DESC': Description of the sector associated with the crop.
+  - 'GROUP_DESC': Group classification of the crop.
+  - 'COMMODITY_DESC': Description of the specific commodity or crop.
+  - 'CLASS_DESC': Description of the class of crops.
+  - 'PRODN_PRACTICE_DESC': Description of the production practice.
+  - 'UTIL_PRACTICE_DESC': Description of the utilization practice.
+  - 'STATISTICCAT_DESC': Description of the statistical category.
+  - 'UNIT_DESC': Description of the unit of measurement.
+  - 'SHORT_DESC': Short description of the crop area harvested.
+  - 'DOMAIN_DESC': Description of the domain.
+  - 'DOMAINCAT_DESC': Description of the domain category.
+  - 'AGG_LEVEL_DESC': Description of the aggregation level.
+  - 'STATE_ANSI': ANSI code for the state.
+  - 'STATE_FIPS_CODE': FIPS code for the state.
+  - 'STATE_ALPHA': State's abbreviation.
+  - 'STATE_NAME': Name of the state.
+  - 'ASD_CODE': ASD code.
+  - 'ASD_DESC': Description of the ASD.
+  - 'COUNTY_ANSI': ANSI code for the county.
+  - 'COUNTY_CODE': Code for the county.
+  - 'COUNTY_NAME': Name of the county.
+  - 'REGION_DESC': Description of the region.
+  - 'ZIP_5': ZIP code.
+  - 'WATERSHED_CODE': Code for the watershed.
+  - 'WATERSHED_DESC': Description of the watershed.
+  - 'CONGR_DISTRICT_CODE': Congressional district code.
+  - 'COUNTRY_CODE': Code for the country.
+  - 'COUNTRY_NAME': Name of the country.
+  - 'LOCATION_DESC': Description of the location.
+  - 'YEAR': The year of observation.
+  - 'FREQ_DESC': Frequency description.
+  - 'BEGIN_CODE': Beginning code.
+  - 'END_CODE': Ending code.
+  - 'REFERENCE_PERIOD_DESC': Description of the reference period.
+  - 'WEEK_ENDING': End of the week.
+  - 'LOAD_TIME': Time of loading.
+  - 'VALUE': Value recorded.
+  - 'CV_%': Coefficient of variation percentage.
+
+
+  ### 'multivariate_data.csv'
+
+- **Description**: Contains data related to agricultural crop observations for various years.
+
+- **Columns**:
+  - 'YEAR': The year of observation.
+  - 'COMMODITY_DESC': Description of the commodity or crop.
+  - 'AREA HARVESTED': The area harvested for the specific crop.
+  - 'AREA PLANTED': The area planted for the specific crop.
+  - 'smoke_estimate': Estimated impact of smoke on the crop.
+  - 'num_fires': Number of fires recorded.
+  - 'PRODUCTION': Total production for the crop.
+  - 'YIELD': Yield of the crop.
+
 This structured data architecture ensures a clear progression from raw inputs to refined, analysis-ready outputs, crucial for our project's success.
 
 
