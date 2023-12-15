@@ -26,7 +26,7 @@ Developed a fully documented repository and a comprehensive written project repo
 
 This project has been licensed under the [MIT License](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/LICENSE).
 
-### Reference Material and Refernce License
+### Reference Material and Reference License
 
 Some code examples that were developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program has been used in the analysis. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.1 - September 5, 2023
 
@@ -34,9 +34,9 @@ Some code examples that were developed by Dr. David W. McDonald for use in DATA 
 Everyone has been assigned a unique U.S. city for their individual analyses. To access the assigned city, refer to the [Google Spreadsheet](link-to-spreadsheet).
 
 - #### EPA Air Quality History Example Script 1
-`[Data 512 - Part1_epa_air_quality_history_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_epa_air_quality_history_example.ipynb)`: Jupyter Notebook showcasing an example script related to EPA air quality history, aiding our analysis.
+[Data 512 - Part1_epa_air_quality_history_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_epa_air_quality_history_example.ipynb): Jupyter Notebook showcasing an example script related to EPA air quality history, aiding our analysis.
 - ### Part1 - Wildfire Geo Proximity Example Script 1
-`[Data 512 - Part1_wildfire_geo_proximity_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_wildfire_geo_proximity_example.ipynb)`: Jupyter Notebook presenting an example script demonstrating wildfire geo proximity calculations for reference.
+[Data 512 - Part1_wildfire_geo_proximity_example.ipynb](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/Data%20512%20-%20Part1_wildfire_geo_proximity_example.ipynb): Jupyter Notebook presenting an example script demonstrating wildfire geo proximity calculations for reference.
 
 ## Data Sources
 
@@ -48,38 +48,38 @@ Everyone has been assigned a unique U.S. city for their individual analyses. To 
 `USDA Data` - Most of the information available from this site is within the public domain. Public domain information on the National Agricultural Statistics Service (NASS) Web pages may be freely downloaded and reproduced. However, it is requested that in any subsequent use of this work, USDA-NASS be given appropriate acknowledgment. Link: https://www.nass.usda.gov/datasets/
 
 ### Processed Data 2
-- `02_data/01_source_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/01_source_data/README.md)`: Raw datasets utilized for analysis.
-- `02_data/02_intermediate_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/02_intermediate_data/README.md)`: Cleaned and processed data files.
-- `02_data/03_final_data/` - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/03_final_data/README.md)`: Immaculate, refined datasets ready for analysis.
+- `02_data/01_source_data/` - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/01_source_data/README.md): Raw datasets utilized for analysis.
+- `02_data/02_intermediate_data/` - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/02_intermediate_data/README.md): Cleaned and processed data files.
+- `02_data/03_final_data/` - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/03_final_data/README.md): Immaculate, refined datasets ready for analysis.
 
-### Attributtions
+### Attributions
 
 - Dr. David W. McDonald - for providing code snippets that acted as guidelines in navigating newer APIs that I didn’t particularly have experience with.
 - Aviva Munshi - for collaborating with the project approach and for providing technical assistance with the operational issues when I faced issues.
 - Rhea Sharma - for collaborating with the project approach and for providing technical assistance with the operational issues when I faced issues.
 - Nizan Howard - for collaborating with the project approach and for providing technical assistance with the operational issues when I faced issues.
 
-## Folder Stucture 
+## Folder Structure 
 
-Details of the folder structure is given in the [Project Folder Structure Guide](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/Project%20Folder%20Structure%20Guide.md)
+Details of the folder structure are given in the [Project Folder Structure Guide](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/Project%20Folder%20Structure%20Guide.md)
 
 ### 01_src
-- Source code repository - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/01_src/README.md)`: Core source code files reside here
+- Source code repository - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/01_src/README.md): Core source code files reside here
 
 ### 02_data
-- Data storage for the project - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/README.md)`: Contains source, intermediate and final data
+- Data storage for the project - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/02_data/README.md): Contains source, intermediate and final data
 
 ### 03_supporting_documentation
-- Repository for project-related documents and notes - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/03_supporting_documentation/README.md)`: Holds project-related documentation 
+- Repository for project-related documents and notes - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/03_supporting_documentation/README.md): Holds project-related documentation 
 
 ### 04_results_and_reports
-- Storage for project reports and outcomes - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/04_results_and_reports/README.md)`: Project reports and visualizations' reflections
+- Storage for project reports and outcomes - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/04_results_and_reports/README.md): Project reports and visualizations' reflections
 
 ### 05_dependencies
-- Third-party libraries and dependencies - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/05_dependencies/README.md)`: Repository for third-party libraries and packages. Contains the 'Reader' package.
+- Third-party libraries and dependencies - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/05_dependencies/README.md): Repository for third-party libraries and packages. Contains the 'Reader' package.
 
 ### 06_reference_scripts
-- Custom scripts and utilities - `[Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/README.md)`: Custom automation scripts for various project functionalities
+- Custom scripts and utilities - [Link to README](https://github.com/shweta97m/Data512-WildFire-Project/blob/main/06_reference_scripts/README.md): Custom automation scripts for various project functionalities
    
 ### 99_archive
 - Archival or backup copies of project files for safekeeping 
@@ -196,32 +196,32 @@ Demonstrate expertise in human-centered data science by creating a comprehensive
 1. Introduction: Outlines the importance, motivation, and real-world implications of the analysis.
 2. Background/Related Work: Summarizes previous research and existing models related to the analysis.
 3. Methodology: Details analytical methods and the human-centered considerations that influenced the study's design.
-4. Findings: Presents the results using figures and clear descriptions.
+4. Findings: Present the results using figures and clear descriptions.
 5. Discussion/Implications: Discusses the significance of findings and recommendations for stakeholders.
 6. Limitations: Addresses limitations and potential biases within the study.
-7. Conclusion: Restates research questions and findings, emphasizing the study's contributions to human-centered data science.
+7. Conclusion: Restate research questions and findings, emphasizing the study's contributions to human-centered data science.
 8. References: Lists all publications referred to in the text.
 9. Data Sources: Provides links to all relevant data sources utilized in the analysis.
 
 
 ## Known Issues or Special Considerations with the Data
 
-Special care and attention needs to be given to this section if implementing this project.
+Special care and attention need to be given to this section if implementing this project.
 
 - The dataset covers wildfires from 1963 to 2023, but limitations exist in pinpointing exact fire start and end dates
 - Availability and reliability of Air Quality Index (AQI) data might vary across different regions
 - Incorporating the selected attributes of fires into smoke impact estimation poses challenges due to data constraints
 - The EPA's monitoring station coverage might not be exhaustive, affecting AQI estimations for specific cities
-- AQI only limited to particulate matter since there was limited information about the gaseous impact
-- The missing values for AQI was filled with average values
+- AQI was only limited to particulate matter since there was limited information about the gaseous impact
+- The missing values for AQI were filled with average values
 - AQI API needs credentials and setup before we can request the data
 - Runtime is significantly high for the USGS GeoJSON
-- Parts 2 and 3 are impelemented with a sole focus in mind and do not consider any additional Impacting factors
+- Parts 2 and 3 are implemented with a sole focus in mind and do not consider any additional Impacting factors
 - Model Predictions are subject to uncertainty and a certain error margin should be expected
-- Yield forecast methodology needs more refinement and statistical proof of result
+- Yield forecast methodology needs more refinement and statistical proof of the result
 - Correlation is used to maintain a relationship between variables, however, correlation is not equal to causation. Causation testing is beyond the scope of the project
-- The extended analysis is done for the county of Burliegh, of which Bismarck, North Dakota is a part 
+- The extended analysis is done for the county of Burleigh, of which Bismarck, North Dakota is a part 
 
 
 
-This README provides an overview of the project's goal, emphasizing the analysis of wildfire impacts and the aim to provide valuable insights for city stakeholders and residen
+This README provides an overview of the project's goal, emphasizing the analysis of wildfire impacts and the aim to provide valuable insights for city stakeholders and residents
